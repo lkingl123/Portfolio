@@ -70,6 +70,13 @@
       float: right;
       text-align: center;
       margin-right: 10px;
+      
+    }
+
+    .flat-button:hover {
+      background: #ffd700;
+      color:black;
+      cursor: pointer;
     }
   }
   
