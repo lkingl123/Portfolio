@@ -1,0 +1,86 @@
+{
+    "portfolio": [
+        {
+            "cover":"/portfolio/1/meme-generator.jpg",
+            "title":"Meme-Generator",
+            "description":"React",
+            "url": "https://meme-generator-jake.netlify.app/"
+        },
+        {
+            "cover":"/portfolio/1/react-lightndark.jpg",
+            "title":"Toggle",
+            "description":"React",
+            "url": "https://react-light-dark.web.app"
+        },
+        {
+            "cover":"/portfolio/1/password-generator.jpg",
+            "title":"Password-Generator",
+            "description":"JSX",
+            "url": "https://password-generator-jake.netlify.app/"
+
+        },
+        {
+            "cover":"/portfolio/1/1.jpg",
+            "title":"Personal Card",
+            "description":"HTML, CSS",
+            "url": "https://jake-card.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/lead-tracker.jpg",
+            "title":"Lead Tracker",
+            "description":"JSX, Chrome plugin",
+            "url": "https://lead-tracker-jake.netlify.app/"
+
+        },
+
+        {
+            "cover":"/portfolio/1/blackjack.jpg",
+            "title":"Blackjack Simple",
+            "description":"JSX, CSS",
+            "url": "https://blackjack-jake.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/unit-conversion.jpg",
+            "title":"Convertor",
+            "description":"HTML, JSX",
+            "url": "https://unit-conversion-jake.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/airbnb-react.jpg",
+            "title":"Airbnb front page(simple)",
+            "description":"React",
+            "url": "https://react-airbnb-jake.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/1.jpg",
+            "title":"Design profile generator",
+            "description":"HTML, CSS",
+            "url": "https://design-profile-generator.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/1.jpg",
+            "title":"E-card",
+            "description":"HTML, CSS",
+            "url": "https://e-business-card.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/hometown-jake.jpg",
+            "title":"My Hometown",
+            "description":"HTML, CSS",
+            "url": "https://hometown-jake.netlify.app/"
+        },
+
+        {
+            "cover":"/portfolio/1/travel-journal.jpg",
+            "title":"Travel Journal",
+            "description":"HTML, CSS",
+            "url": "https://travel-journal-jake.netlify.app/"
+        }
+    ]    
+}
