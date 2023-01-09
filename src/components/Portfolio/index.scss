@@ -25,6 +25,7 @@
         margin: auto;
         
         
+        
     }
 
     .image-box {
@@ -67,10 +68,14 @@
             margin-bottom: 0;
             margin-top: 0;
             color: rgb(243, 243, 243);
-            font-size: 24px;
+            font-size: 18px;
             font-weight: bold;
             line-height: 24px;
             padding:10px;
+            margin-left:-10px;
+
+            
+            
             
         }
 
@@ -153,6 +158,8 @@
         .image-box {
             height:200px;
             max-width: calc(50% - 10px);
+            
+            
 
         }
     }
