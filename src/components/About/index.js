@@ -40,7 +40,7 @@ const About = () => {
             improving my chops one design problem at a time.
           </p>
           <p>
-            I enjoy self-improvement routines and task which includes medidation, working out at a local gym so be sure to hit me up so we can hit some PR's. 
+            I enjoy self-improvement routines and activities which includes meditation, working out at a local gym so be sure to hit me up so we can hit some PR's. 
             Enjoy the presence of family and is a god-fearing man. 
           </p>
         </div>
